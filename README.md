@@ -1,4 +1,4 @@
-# Primate database app template
+# Primate database template
 
 ## Install
 
